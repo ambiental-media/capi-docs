@@ -1,4 +1,4 @@
-<p align="center" height="120em"><img src="_assets/LOGO-FINAL-capi.png" alt="Logo da Capí, um rosto de uma capivara sorrindo" style="float:left" style="vertical-align:middle" height="90em">|<img src="_assets/Horizontal-colorido.png" alt="Logo da Ambiental Media" style="float:right" style="vertical-align:middle" height="90em"></p>
+<p align="center" height="120em"><img src="_assets/LOGO-FINAL-capi.png" alt="Logo da Capí, um rosto de uma capivara sorrindo" style="float:left vertical-align:middle" height="90em">|<img src="_assets/Horizontal-colorido.png" alt="Logo da Ambiental Media" style="float:right vertical-align:middle" height="90em"></p>
 
 <h1 align="center">Documentação | Plano de Comaprtilhamento Codesinfo</h1>
 
