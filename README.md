@@ -1,6 +1,8 @@
-<p align="center" height="120em"><img src="_assets/LOGO-FINAL-capi.png" alt="Logo da Capí, um rosto de uma capivara sorrindo" style="float:left vertical-align:middle" height="180em"><img src="_assets/Horizontal-colorido.png" alt="Logo da Ambiental Media" style="float:right vertical-align:middle" height="60em"></p>
+<img src="_assets/Horizontal-colorido.png" alt="Logo da Ambiental Media" style="float:right" height="60em">
 
-<h1 align="center">Documentação | Plano de Comaprtilhamento Codesinfo</h1>
+<p align="center" height="120em"><img src="_assets/LOGO-FINAL-capi.png" alt="Logo da Capí, um rosto de uma capivara sorrindo" style="float:left vertical-align:middle" height="180em"></p>
+
+<h1 align="center">Documentação / Plano de Compartilhamento Codesinfo</h1>
 
 ## Sobre a "Capí"
 
