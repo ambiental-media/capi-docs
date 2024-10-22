@@ -4,6 +4,8 @@
 
 <h1 align="center">Documentação & Compartilhamento</h1>
 
+*(⚠️ Work in Progress ⚠️)*
+
 ## Sobre a "Capí"
 
 <p align="center"><em>"Capí: Sua Companheira na Luta contra a Desinformação Ambiental e Climática"</em></p>
