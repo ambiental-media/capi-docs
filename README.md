@@ -6,7 +6,7 @@
 
 ## Sobre a "Capí"
 
-*"Capí: Sua Companheira na Luta contra a Desinformação Ambiental e Climática"*
+<p align="center"><em>"Capí: Sua Companheira na Luta contra a Desinformação Ambiental e Climática"</em></p>
 
 A Capí é um projeto inovador que utiliza a inteligência artificial para combater a desinformação ambiental e climática e promover a educação ambiental. Através de um chatbot intuitivo e acessível, a Capí oferece informações confiáveis e atualizadas sobre os impactos das mudanças climáticas, seus efeitos na sociedade e no meio ambiente, e as ações que podem ser tomadas para mitigar seus efeitos.
 
