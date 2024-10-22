@@ -2,7 +2,7 @@
 
 <p align="center" height="120em"><img src="_assets/LOGO-FINAL-capi.png" alt="Logo da Capí, um rosto de uma capivara sorrindo" style="float:left vertical-align:middle" height="180em"></p>
 
-<h1 align="center">Documentação</h1>
+<h1 align="center">Documentação & Compartilhamento</h1>
 
 ## Sobre a "Capí"
 
