@@ -1,4 +1,4 @@
-<img src="_assets/LOGO-FINAL-capi.png" alt="Logo da Capí, um rosto de uma capivara sorrindo" horizontal-align="center" height="60em"> 
+<img src="_assets/LOGO-FINAL-capi.png" alt="Logo da Capí, um rosto de uma capivara sorrindo" style="float:left" height="90em"><img src="_assets/Horizontal-colorido.png" alt="Logo da Ambiental Media" style="float:right" height="90em">
 
 <h1 align="center">Documentação | Plano de Comaprtilhamento Codesinfo</h1>
 
