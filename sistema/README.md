@@ -8,4 +8,4 @@
 
 Diagrama simplificado da arquitetura do sistema:
 
-<p align="center">[!Diagrama demonstrando os recursos que compõe o sistema, e os fluxos de informação.](_assets/arquitetura-assistente-virtual-capi.drawio.png)</p>
+<p align="center"><img src="_assets/arquitetura-assistente-virtual-capi.drawio.png" alt="Diagrama demonstrando os recursos que compõe o sistema, e os fluxos de informação."></p>
