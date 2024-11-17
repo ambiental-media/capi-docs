@@ -66,9 +66,13 @@ A prova de conceito (POC) representou o primeiro passo nessa jornada. A POC, um 
 * **Experimentar diferentes tecnologias**: A equipe pôde experimentar diferentes tecnologias e ferramentas, escolhendo aquelas que melhor se adaptavam às necessidades do projeto.
 * **Demonstrar a viabilidade do projeto**: A POC foi fundamental para convencer os stakeholders da viabilidade do projeto e garantir o apoio necessário para sua continuidade.
 
+<p align="center"><img src="_assets/poc-assistente-virtual-capi.png" alt="Imagem de exemplo da tela inicial da POC quando foi disponibilizada no ar." style="vertical-align:middle" height="160em"></p>
+
 Em paralelo à POC, a equipe desenvolveu um protótipo da interface do usuário, utilizando wireframes de baixa fidelidade. Essa representação visual simplificada da interface permitiu visualizar a experiência do usuário de forma intuitiva e identificar oportunidades de melhoria. Ao apresentar o protótipo a um grupo de usuários, a equipe conseguiu coletar feedbacks valiosos sobre a usabilidade, a navegabilidade e a clareza das informações apresentadas.
 
 A prototipação iterativa foi fundamental para garantir que a Capí fosse uma ferramenta intuitiva e fácil de usar. A cada ciclo de prototipação, a equipe refinava o design da interface, ajustava as funcionalidades e coletava novos feedbacks. Essa abordagem ágil permitiu que a equipe adaptasse rapidamente a solução às necessidades dos usuários e às novas descobertas durante o desenvolvimento.
+
+<p align="center"><img src="_assets/wireframe-lo-fi-assistente-virtual-capi.png" alt="Imagem de exemplo do Wireframe de baixa fidelidade." style="vertical-align:middle" height="160em"></p>
 
 Em resumo, a prototipação foi um elemento central no processo de desenvolvimento da Capí. Através da criação de protótipos, a equipe conseguiu validar hipóteses, identificar e corrigir problemas, coletar feedbacks e garantir que a solução final atendesse às expectativas dos usuários. A prototipação iterativa permitiu que o Capí evoluísse de forma ágil e eficiente, tornando-se uma ferramenta cada vez mais sofisticada e útil para o combate à desinformação ambiental.
 
