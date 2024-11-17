@@ -54,8 +54,31 @@ A pesquisa contínua é um dos pilares do projeto Capí, garantindo que a plataf
 
 ### Prototipação
 
-- POC
-- Wireframe minimal
+**A Prototipação da Capí: Da Ideia à Materialidade**
+
+A fase de prototipação do projeto Capí foi um marco fundamental na trajetória de transformar uma ideia promissora em uma ferramenta concreta e eficaz para o combate à desinformação ambiental. Através da criação de protótipos, a equipe conseguiu tangibilizar a visão inicial, testar hipóteses e coletar feedbacks valiosos para aprimorar a solução.
+
+A prova de conceito (POC) representou o primeiro passo nessa jornada. A POC, um protótipo funcional e simplificado, foi crucial para validar a viabilidade técnica da solução. Ao simular as interações básicas do usuário com o chatbot, a equipe pôde validar a execução técnica do sistema idealizado, utilizando as ferramentas e serviços pesquisados e escolhidos. Essa etapa foi fundamental para garantir que a arquitetura do sistema, definida com base nas pesquisas realizadas, fosse capaz de suportar as funcionalidades desejadas.
+
+**A POC permitiu:**
+
+* **Validar a arquitetura do sistema**: A POC serviu como um teste para a arquitetura do sistema, permitindo identificar e corrigir possíveis problemas de design e implementação.
+* **Experimentar diferentes tecnologias**: A equipe pôde experimentar diferentes tecnologias e ferramentas, escolhendo aquelas que melhor se adaptavam às necessidades do projeto.
+* **Demonstrar a viabilidade do projeto**: A POC foi fundamental para convencer os stakeholders da viabilidade do projeto e garantir o apoio necessário para sua continuidade.
+
+Em paralelo à POC, a equipe desenvolveu um protótipo da interface do usuário, utilizando wireframes de baixa fidelidade. Essa representação visual simplificada da interface permitiu visualizar a experiência do usuário de forma intuitiva e identificar oportunidades de melhoria. Ao apresentar o protótipo a um grupo de usuários, a equipe conseguiu coletar feedbacks valiosos sobre a usabilidade, a navegabilidade e a clareza das informações apresentadas.
+
+A prototipação iterativa foi fundamental para garantir que a Capí fosse uma ferramenta intuitiva e fácil de usar. A cada ciclo de prototipação, a equipe refinava o design da interface, ajustava as funcionalidades e coletava novos feedbacks. Essa abordagem ágil permitiu que a equipe adaptasse rapidamente a solução às necessidades dos usuários e às novas descobertas durante o desenvolvimento.
+
+Em resumo, a prototipação foi um elemento central no processo de desenvolvimento da Capí. Através da criação de protótipos, a equipe conseguiu validar hipóteses, identificar e corrigir problemas, coletar feedbacks e garantir que a solução final atendesse às expectativas dos usuários. A prototipação iterativa permitiu que o Capí evoluísse de forma ágil e eficiente, tornando-se uma ferramenta cada vez mais sofisticada e útil para o combate à desinformação ambiental.
+
+A importância da prototipação para o sucesso do projeto Capí pode ser resumida em três pontos principais:
+
+* **Redução de riscos**: Ao identificar e corrigir problemas nas fases iniciais do desenvolvimento, a prototipação minimizou os riscos de falhas e atrasos no projeto.
+* **Melhora da qualidade**: A coleta de feedbacks e a iteração contínua permitiram que a equipe entregasse um produto final de alta qualidade, que atende às necessidades dos usuários.
+* **Aumento da agilidade**: A prototipação ágil permitiu que a equipe se adaptasse rapidamente às mudanças e às novas descobertas durante o desenvolvimento.
+
+Em suma, a prototipação foi um investimento fundamental para o sucesso do projeto Capí, garantindo que a solução fosse desenvolvida de forma eficiente e eficaz, e que atendesse às necessidades dos seus usuários.
 
 ## Desenvolvimento
 
