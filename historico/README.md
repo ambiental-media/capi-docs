@@ -102,6 +102,8 @@ O projeto de UI serviu como um guia preciso para os desenvolvedores front-end, q
 * **Implementar os componentes visuais**: Os desenvolvedores puderam utilizar o projeto de UI como referência para criar os componentes visuais da interface, garantindo a consistência e a qualidade do design.
 * **Resolver dúvidas e conflitos**: Em caso de dúvidas ou divergências, o projeto de UI serviu como um documento de referência para resolver conflitos e garantir que a implementação estivesse alinhada com a visão original.
 
+<p align="center"><img src="_assets/projeto-interface-usuario-assistente-virtual-capi.png" alt="Imagem de exemplo do projeto de interface de usuario no Figma." style="vertical-align:middle" height="160em"></p>
+
 #### O Projeto de Arquitetura de Sistema: A Estrutura Interna da Capí
 
 Paralelamente ao desenvolvimento da interface, a equipe técnica elaborou o projeto de arquitetura de sistema. Baseado na arquitetura validada na prova de conceito (POC), este projeto detalhou os componentes que compõem o sistema, suas interações e os fluxos de informações.
@@ -112,6 +114,8 @@ O projeto de arquitetura de sistema foi um documento fundamental para todos os e
 * **Estabelecer as relações entre os componentes**: O projeto detalhou as relações entre os diferentes componentes do sistema, como a forma como eles se comunicam e trocam informações.
 * **Orientar o desenvolvimento**: O projeto de arquitetura serviu como um guia para os desenvolvedores, orientando-os na implementação de cada componente do sistema.
 * **Facilitar a manutenção**: Um projeto de arquitetura bem definido facilitou a manutenção do sistema ao longo do tempo, permitindo que novas funcionalidades fossem adicionadas e que problemas fossem corrigidos de forma eficiente.
+
+<p align="center"><img src="/sistema/_assets/arquitetura-assistente-virtual-capi.drawio.png" alt="Imagem de exemplo do projeto de interface de usuario no Figma." style="vertical-align:middle" height="160em"></p>
 
 ### A Importância da Elaboração de Projetos no Desenvolvimento da Capí
 
