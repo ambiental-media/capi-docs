@@ -52,6 +52,36 @@ Em resumo, a fase de pesquisa do projeto Capí foi fundamental para garantir o s
 
 A pesquisa contínua é um dos pilares do projeto Capí, garantindo que a plataforma se mantenha atualizada e relevante, adaptando-se às novas demandas e desafios do cenário ambiental.
 
+### Consultoria Jurídica
+
+A implementação de um projeto inovador como o Capí, que lida com uma grande quantidade de dados e informações, exige uma atenção especial às questões legais. A consultoria jurídica, nesse contexto, desempenha um papel fundamental ao garantir a conformidade do projeto com as leis e regulamentações vigentes, protegendo tanto a plataforma quanto os usuários.
+
+#### Definição de Medidas para Seguir Termos de Uso e Licenças
+
+A consultoria jurídica é essencial para definir quais medidas devem ser tomadas para garantir o cumprimento dos termos de uso e licenças de todas as fontes de dados utilizadas nas respostas do bot. Algumas das ações que podem ser recomendadas incluem:
+
+* **Mapeamento detalhado das fontes**: É fundamental realizar um mapeamento completo de todas as fontes de dados utilizadas, identificando os termos de uso, licenças e restrições específicas de cada uma.
+* **Análise jurídica aprofundada**: Uma análise jurídica detalhada dos termos de uso e licenças permitiu identificar as obrigações e restrições legais associadas ao uso desses dados.
+* **Adaptação do modelo de linguagem**: Mapeamento de itens que necessitavam de ajustes para garantir que as respostas geradas estejam em conformidade com as restrições legais e éticas.
+
+#### Estratégia de Divulgação de Conteúdos Referentes a Uso, Dados e Licenças
+
+A divulgação transparente das informações sobre o uso de dados, as licenças e as políticas de privacidade é fundamental para construir a confiança dos usuários e garantir a conformidade legal do projeto. Neste momento foi definida uma estratégia de divulgação eficaz visando trazer mais clareza quanto pos temas:
+
+* Política de privacidade
+* Termos de uso detalhados
+* Divulgação transparente das fontes de dados
+* Canal de comunicação com os usuários
+
+#### Benefícios da Consultoria Jurídica
+
+A contratação de uma consultoria jurídica especializada trouxe diversos benefícios para o projeto Capí, como:
+
+* **Conformidade legal**: A consultoria jurídica garante que o projeto esteja em conformidade com as leis e regulamentações vigentes, evitando riscos de processos judiciais e multas.
+* **Proteção da marca**: A proteção da marca e da reputação do projeto é fundamental para garantir sua sustentabilidade a longo prazo.
+* **Transparência e confiança**: A divulgação transparente das informações sobre uso de dados e licenças contribui para a construção de uma relação de confiança com os usuários.
+* **Gerenciamento de riscos**: A identificação e o gerenciamento dos riscos legais associados ao projeto permitem tomar decisões mais seguras e estratégicas.
+
 ### Prototipação
 
 **A Prototipação da Capí: Da Ideia à Materialidade**
@@ -160,5 +190,55 @@ A fase de execução e desenvolvimento do projeto Capí foi marcada por um inten
 
 ### Testes com Usuários
 
+#### A Pesquisa de Interface com o Usuário e a Construção da Experiência do Capí
+
+A etapa de pesquisa de interface com o usuário (UX) do projeto Capí foi fundamental para garantir que a ferramenta atendesse às necessidades e expectativas dos seus principais públicos: professores e jornalistas. Através de uma série de atividades de pesquisa qualitativa, a equipe conseguiu coletar insights valiosos que nortearam o design e o desenvolvimento da plataforma.
+
+Inicialmente, um grupo focal com professores permitiu identificar os principais desafios enfrentados no combate à desinformação e a necessidade de ferramentas mais eficazes para engajar os alunos sobre questões ambientais. A partir desse primeiro contato com o público-alvo, foi possível elaborar uma lista inicial de funcionalidades para o bot e um conjunto de perguntas que pudessem orientar os usuários menos familiarizados com a tecnologia.
+
+A etapa seguinte envolveu a realização de testes com a prova de conceito (POC) da plataforma. Um grupo de professores e jornalistas foi convidado a testar a ferramenta de forma independente, fornecendo feedbacks valiosos sobre a usabilidade, a relevância das informações e a clareza da interface. A análise dos logs de conversa permitiu identificar as principais dúvidas e necessidades dos usuários, enriquecendo ainda mais a base de conhecimento da Capí.
+
+Com base nos resultados dos testes, a equipe realizou novos grupos focais para aprofundar a discussão sobre a experiência do usuário e identificar pontos de melhoria. Os feedbacks coletados nesses encontros foram cruciais para o refinamento da interface e a definição das funcionalidades finais da plataforma.
+
+Em paralelo às atividades de pesquisa, a equipe de design trabalhou na criação da identidade visual da Capí e na elaboração de wireframes e protótipos de alta fidelidade. A partir desses materiais, foi possível visualizar a interface final da plataforma e garantir que ela fosse intuitiva e agradável de usar.
+
+Ao longo de todo o processo, a equipe manteve um foco constante na experiência do usuário, buscando criar uma ferramenta que fosse fácil de usar, relevante e capaz de atender às necessidades dos diferentes públicos. A pesquisa de UX foi fundamental para garantir que a Capí fosse um sucesso e que contribuísse de forma significativa para o combate à desinformação ambiental.
+
+#### Em resumo, a pesquisa de UX do projeto Capí permitiu:
+
+* **Identificar as necessidades dos usuários**: Através de grupos focais e testes com a POC, a equipe conseguiu compreender as expectativas e desafios dos professores e jornalistas.
+* **Informar o design da interface**: Os insights coletados na pesquisa foram utilizados para criar uma interface intuitiva e fácil de usar.
+* **Melhorar a qualidade das respostas da Capí**: A análise das perguntas dos usuários permitiu aprimorar a base de conhecimento da ferramenta e garantir que as respostas fossem sempre relevantes e precisas.
+* **Aumentar a confiança dos usuários**: Ao envolver os usuários no processo de desenvolvimento, a equipe conseguiu construir uma relação de confiança com o público-alvo.
+
+A pesquisa de UX foi um investimento fundamental para o sucesso do projeto Capí, garantindo que a ferramenta fosse desenvolvida com foco nas necessidades dos usuários e que contribuísse de forma significativa para a disseminação de informações corretas sobre o meio ambiente.
+
 ### Testes de Tecnologia
+
+A etapa de desenvolvimento do Capí foi acompanhada por um rigoroso processo de qualidade, visando garantir a entrega de uma solução robusta, segura e eficiente. Esse processo envolveu diversas atividades, desde a observação dos logs do sistema até a implementação de correções e melhorias.
+
+#### Observação e Análise dos Logs do Sistema
+
+Uma das principais formas utilizadas para garantir a qualidade do Capí foi a análise dos logs do sistema. Durante e após os testes com os usuários, os logs foram minuciosamente observados para identificar:
+
+* **Pontos de falha**: Erros e exceções que impediam o funcionamento correto do sistema.
+* **Instabilidades**: Problemas de desempenho, como lentidão ou travamentos, que comprometiam a experiência do usuário.
+* **Padrões de uso**: Analisando as interações dos usuários com o sistema, foi possível identificar as funcionalidades mais utilizadas e as que apresentavam maior dificuldade de uso.
+
+#### Utilização de Ferramentas de Qualidade e Segurança
+
+Para complementar a análise dos logs, foram utilizadas outras ferramentas de qualidade e segurança, visando testar alguns aspector do sistema como:
+
+* **Integração**: Se os diferentes componentes do sistema interagiam corretamente entre si.
+* **Testes de segurança**: Foram realizados testes de segurança para identificar e mapear vulnerabilidades.
+* **Carga**: Testando como se comportava a escalabilidade da Capí.
+* **Análise de código estático e infra estrutura provisionada**: Visando encontrar erros, vulnerabilidaes e problemas de configuração.
+
+#### Mapeamento, Triagem e Plano de Ação
+
+Os problemas identificados durante os testes e as análises foram mapeados e classificados por ordem de prioridade. Essa classificação levou em consideração o impacto do problema na experiência do usuário e na estabilidade do sistema. Com base nessa classificação, foi elaborado um plano de ação, definindo as tarefas necessárias para corrigir os bugs, implementar as melhorias e garantir a qualidade do sistema.
+
+#### Correções e Melhorias
+
+O plano de ação está sendo executado de forma incremental, com as correções e melhorias sendo implementadas em diferentes fases. A cada nova versão do sistema, novos testes estão sendo realizados para verificar se os problemas estão sido resolvidos e se novas funcionalidades estão funcionando corretamente.
 
