@@ -52,6 +52,36 @@ Em resumo, a fase de pesquisa do projeto Capí foi fundamental para garantir o s
 
 A pesquisa contínua é um dos pilares do projeto Capí, garantindo que a plataforma se mantenha atualizada e relevante, adaptando-se às novas demandas e desafios do cenário ambiental.
 
+### Consultoria Jurídica
+
+A implementação de um projeto inovador como o Capí, que lida com uma grande quantidade de dados e informações, exige uma atenção especial às questões legais. A consultoria jurídica, nesse contexto, desempenha um papel fundamental ao garantir a conformidade do projeto com as leis e regulamentações vigentes, protegendo tanto a plataforma quanto os usuários.
+
+#### Definição de Medidas para Seguir Termos de Uso e Licenças
+
+A consultoria jurídica é essencial para definir quais medidas devem ser tomadas para garantir o cumprimento dos termos de uso e licenças de todas as fontes de dados utilizadas nas respostas do bot. Algumas das ações que podem ser recomendadas incluem:
+
+* **Mapeamento detalhado das fontes**: É fundamental realizar um mapeamento completo de todas as fontes de dados utilizadas, identificando os termos de uso, licenças e restrições específicas de cada uma.
+* **Análise jurídica aprofundada**: Uma análise jurídica detalhada dos termos de uso e licenças permitiu identificar as obrigações e restrições legais associadas ao uso desses dados.
+* **Adaptação do modelo de linguagem**: Mapeamento de itens que necessitavam de ajustes para garantir que as respostas geradas estejam em conformidade com as restrições legais e éticas.
+
+#### Estratégia de Divulgação de Conteúdos Referentes a Uso, Dados e Licenças
+
+A divulgação transparente das informações sobre o uso de dados, as licenças e as políticas de privacidade é fundamental para construir a confiança dos usuários e garantir a conformidade legal do projeto. Neste momento foi definida uma estratégia de divulgação eficaz visando trazer mais clareza quanto pos temas:
+
+* Política de privacidade
+* Termos de uso detalhados
+* Divulgação transparente das fontes de dados
+* Canal de comunicação com os usuários
+
+#### Benefícios da Consultoria Jurídica
+
+A contratação de uma consultoria jurídica especializada trouxe diversos benefícios para o projeto Capí, como:
+
+* **Conformidade legal**: A consultoria jurídica garante que o projeto esteja em conformidade com as leis e regulamentações vigentes, evitando riscos de processos judiciais e multas.
+* **Proteção da marca**: A proteção da marca e da reputação do projeto é fundamental para garantir sua sustentabilidade a longo prazo.
+* **Transparência e confiança**: A divulgação transparente das informações sobre uso de dados e licenças contribui para a construção de uma relação de confiança com os usuários.
+* **Gerenciamento de riscos**: A identificação e o gerenciamento dos riscos legais associados ao projeto permitem tomar decisões mais seguras e estratégicas.
+
 ### Prototipação
 
 **A Prototipação da Capí: Da Ideia à Materialidade**
