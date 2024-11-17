@@ -22,7 +22,7 @@ Em suma, as mentorias foram um investimento fundamental para o sucesso do projet
 
 ### Pesquisa
 
-**A Pesquisa como Pilar Fundante do Projeto Capí**
+**A Pesquisa como pilar no projeto Capí**
 
 A fase de pesquisa do projeto Capí foi crucial para a concepção e o desenvolvimento de um assistente virtual capaz de fornecer informações precisas e confiáveis sobre o meio ambiente e as mudanças climáticas. Essa etapa abrangente envolveu a investigação de diversos aspectos, desde as necessidades dos usuários até as soluções tecnológicas disponíveis no mercado.
 
