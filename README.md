@@ -34,4 +34,5 @@ Ao compartilhar os detalhes técnicos, as decisões de design e os desafios enfr
 
 ## Conteúdo da Documentação
 
+### [Histórico do Projeto](./historico/README.md)
 ### [Sistema](./sistema/README.md)
