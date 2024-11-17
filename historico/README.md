@@ -8,7 +8,7 @@
 
 ### Mentorias
 
-**A mentoria como catalisadora da inovação no projeto Capí**
+**A Mentoria como Catalisadora da Inovação no Projeto Capí**
 
 O projeto Capí, uma iniciativa de disseminação de informações precisas sobre o meio ambiente e as mudanças climáticas, contou com um programa de mentorias que se mostrou fundamental para o sucesso da iniciativa. Essa modalidade de acompanhamento especializado proporcionou à equipe do projeto um direcionamento estratégico, técnico e pedagógico, otimizando o desenvolvimento da solução e garantindo que ela atendesse às necessidades dos usuários.
 
@@ -22,7 +22,7 @@ Em suma, as mentorias foram um investimento fundamental para o sucesso do projet
 
 ### Pesquisa
 
-**A Pesquisa como pilar no projeto Capí**
+**A Pesquisa como Pilar no Projeto Capí**
 
 A fase de pesquisa do projeto Capí foi crucial para a concepção e o desenvolvimento de um assistente virtual capaz de fornecer informações precisas e confiáveis sobre o meio ambiente e as mudanças climáticas. Essa etapa abrangente envolveu a investigação de diversos aspectos, desde as necessidades dos usuários até as soluções tecnológicas disponíveis no mercado.
 
@@ -82,14 +82,71 @@ Em suma, a prototipação foi um investimento fundamental para o sucesso do proj
 
 ## Desenvolvimento
 
-- Execução do projeto de Interface com Usuário no Figma.
-- Curadoria e preparações das bases.
-- Preparações de conteúdo para o Prompt Tuning.
-- Provisionamento de Infra Estrutura em nuvem para anbrigar o sistema.
-- Provisionamento e configuração das esteiras de DevOps para permitir o ciclo ágil, seguro e contínuo do desenvolvimento.
-- Execução do Front End Next JS replicando a interface com o usuário projetada em Figma.
-- Execução do Back End Next JS que é o componente responsável pela integração entra a inteligência artificial e o front end
+### Elaboração dos projetos definitivos
 
+A fase de elaboração dos projetos representou um marco crucial na transformação de uma ideia inovadora em uma solução concreta e eficaz para o combate à desinformação ambiental. Nesta etapa, a elaboração de projetos detalhados se mostrou fundamental para garantir a alinhamento entre as diferentes equipes envolvidas e a entrega de um produto de alta qualidade.
+
+Dois projetos, em particular, se destacaram por sua importância neste processo: o projeto de interface com o usuário (UI) e o projeto de arquitetura de sistema.
+
+#### O Projeto de Interface com o Usuário (UI): A Experiência do Usuário em Detalhes
+
+Com base no wireframe de baixa fidelidade, elaborado nas etapas iniciais do projeto, a equipe de design deu vida à interface da Capí através do Figma. Essa ferramenta de design colaborativo permitiu a criação de um artefato visual completo e detalhado, contendo todas as telas, fluxos de navegação e conteúdos que compõem a experiência do usuário.
+
+O projeto de UI serviu como um guia preciso para os desenvolvedores front-end, que utilizaram essas informações para construir a interface visual da aplicação. Ao ter acesso a um projeto de UI bem elaborado, os desenvolvedores puderam:
+
+* **Compreender a visão geral da interface**: O projeto de UI ofereceu uma visão completa da interface, facilitando a compreensão da estrutura e da hierarquia das informações.
+* **Implementar os componentes visuais**: Os desenvolvedores puderam utilizar o projeto de UI como referência para criar os componentes visuais da interface, garantindo a consistência e a qualidade do design.
+* **Resolver dúvidas e conflitos**: Em caso de dúvidas ou divergências, o projeto de UI serviu como um documento de referência para resolver conflitos e garantir que a implementação estivesse alinhada com a visão original.
+
+#### O Projeto de Arquitetura de Sistema: A Estrutura Interna da Capí
+
+Paralelamente ao desenvolvimento da interface, a equipe técnica elaborou o projeto de arquitetura de sistema. Baseado na arquitetura validada na prova de conceito (POC), este projeto detalhou os componentes que compõem o sistema, suas interações e os fluxos de informações.
+
+O projeto de arquitetura de sistema foi um documento fundamental para todos os envolvidos no desenvolvimento da Capí, incluindo os desenvolvedores front-end, back-end e infraestrutura. Ele serviu como uma referência para:
+
+* **Definir a estrutura do sistema**: O projeto de arquitetura definiu a estrutura do sistema, indicando os módulos, componentes e serviços que o compõem.
+* **Estabelecer as relações entre os componentes**: O projeto detalhou as relações entre os diferentes componentes do sistema, como a forma como eles se comunicam e trocam informações.
+* **Orientar o desenvolvimento**: O projeto de arquitetura serviu como um guia para os desenvolvedores, orientando-os na implementação de cada componente do sistema.
+* **Facilitar a manutenção**: Um projeto de arquitetura bem definido facilitou a manutenção do sistema ao longo do tempo, permitindo que novas funcionalidades fossem adicionadas e que problemas fossem corrigidos de forma eficiente.
+
+### A Importância da Elaboração de Projetos no Desenvolvimento da Capí
+
+Em resumo, a elaboração de projetos detalhados de interface e arquitetura foi um passo crucial no desenvolvimento da Capí. Ao garantir a clareza e a organização do processo de desenvolvimento, esses projetos contribuíram significativamente para o sucesso do projeto como um todo.
+
+### Execução e Desenvolvimento
+
+A fase de execução e desenvolvimento do projeto Capí representou um momento crucial na transformação da visão inicial em uma ferramenta robusta e eficaz para o combate à desinformação ambiental. Nesta etapa, diversas atividades foram realizadas para garantir que a Capí atendesse aos requisitos técnicos e funcionais estabelecidos.
+
+#### Curadoria e Preparação das Bases de Dados
+
+A construção de uma base de conhecimento sólida e confiável foi fundamental para o funcionamento da Capí. A equipe responsável pela curadoria de dados se dedicou a coletar, organizar e preparar informações precisas e atualizadas sobre meio ambiente e mudanças climáticas. Essa base de dados serviu como o alicerce para as respostas da Capí, garantindo que as informações fornecidas fossem sempre relevantes e confiáveis.
+
+#### Preparação de Conteúdo para o Prompt Tuning
+
+Para garantir que a Capí interagisse com os usuários de forma natural e eficiente, foi necessário um processo de "aprendizado" denominado prompt tuning. Nesse processo, foram criados diversos tipos de conteúdo, como:
+
+* **Textos de conversação exemplo**: Esses textos simularam conversas entre a Capí e um usuário, ajudando a "ensinar" à ferramenta o tom de voz, a formalidade e a maneira de abordar diferentes assuntos.
+* **Listas de perguntas e respostas**: Essas listas foram elaboradas para ensinar a Capí a lidar com perguntas complexas, com viés, conteúdo malicioso ou que fugissem do escopo de atuação da ferramenta.
+
+#### Provisionamento da Infraestrutura em Nuvem
+
+A equipe de infraestrutura provisionou todos os recursos computacionais necessários para o funcionamento da aplicação, incluindo redes, baleanceadores de carga, segmentação de ambientes, bancos de dados, recursos Serverless, serviços de armazenamento, entre outros.
+
+#### Provisionamento e Configuração das Esteiras de DevOps
+
+Para garantir um ciclo de desenvolvimento ágil, seguro e contínuo, foram implementadas esteiras de DevOps. Essas esteiras automatizaram diversas tarefas, como a construção, o teste e a implantação da aplicação, reduzindo o tempo de desenvolvimento e aumentando a qualidade do software.
+
+#### Execução do Front-End e Back-End
+
+A interface visual da Capí, projetada no Figma, foi implementada utilizando a tecnologia Next.js. Essa escolha permitiu a criação de uma interface rápida, responsiva e com excelente desempenho. O back-end, também desenvolvido com Next.js, foi responsável por integrar a inteligência artificial à interface, permitindo que os usuários interagissem com a Capí de forma natural e intuitiva.
+
+#### Execução da Inteligência Artificial
+
+A inteligência artificial foi o coração da Capí. Através de modelos de linguagem avançados e da técnica de RAG, a Capí foi implementada para entender as perguntas dos usuários, buscar as informações relevantes na base de dados e gerar respostas precisas e concisas. O processo de treinamento da inteligência artificial foi realizado utilizando as técnicas de prompt tuning e aprendizado de máquina.
+
+#### Conclusão
+
+A fase de execução e desenvolvimento do projeto Capí foi marcada por um intenso trabalho de equipe e pela utilização de tecnologias de ponta. A combinação de uma base de dados robusta, um modelo de linguagem avançado e uma arquitetura de software escalável permitiu a criação de uma ferramenta poderosa para o combate à desinformação ambiental. 
 
 ## Processo de Qualidade
 
