@@ -8,237 +8,163 @@
 
 ### Mentorias
 
-**A Mentoria como Catalisadora da Inovação no Projeto Capí**
+**A mentoria como catalisadora da inovação**
 
-O projeto Capí, uma iniciativa de disseminação de informações precisas sobre o meio ambiente e as mudanças climáticas, contou com um programa de mentorias que se mostrou fundamental para o sucesso da iniciativa. Essa modalidade de acompanhamento especializado proporcionou à equipe do projeto um direcionamento estratégico, técnico e pedagógico, otimizando o desenvolvimento da solução e garantindo que ela atendesse às necessidades dos usuários.
+Primeiro, a equipe da Ambiental Media responsável pela Capí participou de um programa de mentorias técnicas e pedagógicas. 
 
-As mentorias técnicas, em particular, foram cruciais para a definição da arquitetura do sistema, a escolha das tecnologias mais adequadas e a resolução de desafios complexos relacionados à inteligência artificial. Com a orientação de especialistas na área, a equipe conseguiu construir uma solução robusta, escalável e capaz de fornecer respostas precisas e relevantes às perguntas dos usuários.
+Na área técnica, contamos com uma série de sessões com Bruno Fávero, diretor de inovação do Aos Fatos e responsável pelo chatbot Fátima. Fávero trouxe um direcionamento estratégico importante para a definição da arquitetura do sistema, para a escolha das tecnologias mais adequadas e para a resolução de desafios complexos relacionados à inteligência artificial. 
 
-Paralelamente, as mentorias pedagógicas desempenharam um papel fundamental na garantia de que a Capí fosse uma ferramenta útil e engajadora para professores e estudantes. Através de pesquisas e testes com usuários, a equipe conseguiu identificar as necessidades e expectativas do público-alvo, adaptando a interface e as funcionalidades da plataforma para atender a essas demandas.
+Paralelamente, foram realizadas mentorias pedagógicas com a jornalista e pesquisadora em educação Camila Leporace. As sessões tiveram o objetivo de fazer da Capí uma ferramenta útil e atraente para professores e estudantes. 
 
-A combinação de mentorias técnicas e pedagógicas permitiu que o projeto Capí evoluísse de forma ágil e eficiente, superando obstáculos e alcançando resultados significativos. As mentorias proporcionaram à equipe um aprendizado contínuo, estimulando a inovação e a busca por soluções cada vez mais eficazes para o combate à desinformação ambiental.
-
-Em suma, as mentorias foram um investimento fundamental para o sucesso do projeto Capí, contribuindo para o desenvolvimento de uma solução de alta qualidade, alinhada às necessidades dos usuários e com potencial para transformar a forma como as pessoas acessam e compreendem informações sobre o meio ambiente e as mudanças climáticas.
+Por meio de pesquisas e testes com usuários, a equipe conseguiu identificar as necessidades e expectativas do público-alvo, adaptando a interface e as funcionalidades da plataforma para atender a essas demandas.
 
 ### Pesquisa
 
-**A Pesquisa como Pilar no Projeto Capí**
+A equipe trabalhou em diferentes frentes de pesquisa a fim de entender questões como as necessidades dos usuários e as soluções tecnológicas disponíveis.
 
-A fase de pesquisa do projeto Capí foi crucial para a concepção e o desenvolvimento de um assistente virtual capaz de fornecer informações precisas e confiáveis sobre o meio ambiente e as mudanças climáticas. Essa etapa abrangente envolveu a investigação de diversos aspectos, desde as necessidades dos usuários até as soluções tecnológicas disponíveis no mercado.
+#### Pesquisas de mercado e interfaces com o usuário
 
-#### Pesquisas de mercado e interfaces com o usuário:
+Foram realizadas pesquisas sobre as melhores práticas em design de interfaces conversacionais, como estudos sobre a usabilidade, a acessibilidade e as preferências dos usuários. A equipe analisou ainda as interfaces de outros assistentes virtuais, entre eles o chatbot Fátima, produzido pelo Aos Fatos, e o NOA, do Instituto Talanoa.
 
-A fim de garantir uma experiência intuitiva e agradável para os usuários, foram realizadas pesquisas aprofundadas sobre as melhores práticas em design de interfaces conversacionais. Estudos sobre a usabilidade, a acessibilidade e as preferências dos usuários foram essenciais para a definição da interface do Capí. Além disso, foram analisadas as interfaces de outros assistentes virtuais, identificando tanto os pontos fortes quanto as oportunidades de melhoria.
+#### Pesquisas técnicas sobre arquitetura de assistentes virtuais
 
-#### Pesquisas sobre fontes de dados e inteligência artificial:
+Foram realizadas ainda pesquisas sobre as diferentes arquiteturas de sistemas de conversação, as melhores práticas em processamento de linguagem natural e as ferramentas disponíveis para desenvolver modelos de linguagem.
 
-A qualidade das informações fornecidas pelo Capí depende diretamente da qualidade dos dados utilizados para treinar seus modelos de linguagem. Nesse sentido, foram realizadas pesquisas exaustivas para identificar as fontes de dados mais confiáveis e relevantes sobre o meio ambiente e as mudanças climáticas. Foram consideradas tanto fontes acadêmicas, como artigos científicos e relatórios de instituições de pesquisa, quanto fontes jornalísticas de renome.
+A equipe avaliou opções de plataformas de desenvolvimento, frameworks e bibliotecas de software, considerando aspectos como escalabilidade, custo, facilidade de uso e integração com outras ferramentas. A escolha da arquitetura ideal foi fundamental para garantir o desempenho e a robustez do sistema.
 
-A seleção das fontes de dados foi realizada com base em critérios rigorosos de qualidade, confiabilidade e relevância. Além disso, foi necessário realizar um trabalho de curadoria para garantir que os dados estivessem formatados de forma adequada para o treinamento dos modelos de linguagem.
+#### Pesquisas sobre ferramentas e serviços
 
-#### Pesquisas técnicas sobre arquitetura de assistentes virtuais:
+O mercado oferece uma ampla variedade de ferramentas e serviços que podem ser utilizados para o desenvolvimento de assistentes virtuais, como para a construção de interfaces conversacionais, plataformas de desenvolvimento de modelos de linguagem, serviços de armazenamento de dados e ferramentas de análise de dados.
 
-A construção de um assistente virtual baseado em inteligência artificial exige um conhecimento profundo das tecnologias envolvidas. Nesse sentido, foram realizadas pesquisas aprofundadas sobre as diferentes arquiteturas de sistemas de conversação, as melhores práticas em processamento de linguagem natural e as ferramentas disponíveis para o desenvolvimento de modelos de linguagem.
-
-Foram avaliadas diversas opções de plataformas de desenvolvimento, frameworks e bibliotecas de software, considerando aspectos como escalabilidade, custo, facilidade de uso e integração com outras ferramentas. A escolha da arquitetura ideal foi fundamental para garantir o desempenho e a robustez do sistema.
-
-#### Pesquisas sobre ferramentas e serviços:
-
-O mercado oferece uma ampla variedade de ferramentas e serviços que podem ser utilizados para o desenvolvimento de assistentes virtuais. A equipe do projeto Capí realizou uma pesquisa exaustiva para identificar as soluções mais adequadas para cada etapa do desenvolvimento.
-
-Foram avaliadas ferramentas para a construção de interfaces conversacionais, plataformas de desenvolvimento de modelos de linguagem, serviços de armazenamento de dados e ferramentas de análise de dados. A escolha das ferramentas e serviços foi realizada com base em critérios técnicos, econômicos e de compatibilidade com a arquitetura do sistema.
-
-Em resumo, a fase de pesquisa do projeto Capí foi fundamental para garantir o sucesso da iniciativa. Através de uma investigação aprofundada das necessidades dos usuários, das tecnologias disponíveis e das melhores práticas do mercado, foi possível desenvolver um assistente virtual inovador e capaz de fornecer informações precisas e confiáveis sobre o meio ambiente e as mudanças climáticas.
-
-A pesquisa contínua é um dos pilares do projeto Capí, garantindo que a plataforma se mantenha atualizada e relevante, adaptando-se às novas demandas e desafios do cenário ambiental.
+Após uma pesquisa para identificar as soluções mais adequadas, a equipe fez as escolhas levando em conta critérios técnicos, econômicos e de compatibilidade com a arquitetura do sistema.
 
 ### Consultoria Jurídica
 
-A implementação de um projeto inovador como o Capí, que lida com uma grande quantidade de dados e informações, exige uma atenção especial às questões legais. A consultoria jurídica, nesse contexto, desempenha um papel fundamental ao garantir a conformidade do projeto com as leis e regulamentações vigentes, protegendo tanto a plataforma quanto os usuários.
+O chatbot contou com uma consultoria jurídica para garantir a conformidade do projeto às leis e regulamentações vigentes, protegendo tanto a plataforma quanto os usuários. Desta forma, a equipe foi capacitada para gerenciar riscos legais e tomar decisões mais seguras e estratégicas.
 
-#### Definição de Medidas para Seguir Termos de Uso e Licenças
+**Termos de uso e licenças**
 
-A consultoria jurídica é essencial para definir quais medidas devem ser tomadas para garantir o cumprimento dos termos de uso e licenças de todas as fontes de dados utilizadas nas respostas do bot. Algumas das ações que podem ser recomendadas incluem:
+Algumas das ações foram:
 
-* **Mapeamento detalhado das fontes**: É fundamental realizar um mapeamento completo de todas as fontes de dados utilizadas, identificando os termos de uso, licenças e restrições específicas de cada uma.
-* **Análise jurídica aprofundada**: Uma análise jurídica detalhada dos termos de uso e licenças permitiu identificar as obrigações e restrições legais associadas ao uso desses dados.
-* **Adaptação do modelo de linguagem**: Mapeamento de itens que necessitavam de ajustes para garantir que as respostas geradas estejam em conformidade com as restrições legais e éticas.
-
-#### Estratégia de Divulgação de Conteúdos Referentes a Uso, Dados e Licenças
-
-A divulgação transparente das informações sobre o uso de dados, as licenças e as políticas de privacidade é fundamental para construir a confiança dos usuários e garantir a conformidade legal do projeto. Neste momento foi definida uma estratégia de divulgação eficaz visando trazer mais clareza quanto pos temas:
-
-* Política de privacidade
-* Termos de uso detalhados
-* Divulgação transparente das fontes de dados
-* Canal de comunicação com os usuários
-
-#### Benefícios da Consultoria Jurídica
-
-A contratação de uma consultoria jurídica especializada trouxe diversos benefícios para o projeto Capí, como:
-
-* **Conformidade legal**: A consultoria jurídica garante que o projeto esteja em conformidade com as leis e regulamentações vigentes, evitando riscos de processos judiciais e multas.
-* **Proteção da marca**: A proteção da marca e da reputação do projeto é fundamental para garantir sua sustentabilidade a longo prazo.
-* **Transparência e confiança**: A divulgação transparente das informações sobre uso de dados e licenças contribui para a construção de uma relação de confiança com os usuários.
-* **Gerenciamento de riscos**: A identificação e o gerenciamento dos riscos legais associados ao projeto permitem tomar decisões mais seguras e estratégicas.
+* Mapeamento detalhado das fontes, com identificação dos termos de uso, licenças e restrições específicas de cada uma;
+* Análise jurídica dos termos de uso e licenças para identificar as obrigações e restrições legais associadas ao uso dos dados;
+* Adaptação do modelo de linguagem, mapeando itens que necessitavam de ajustes para garantir que as respostas geradas estivessem em conformidade com as restrições legais e éticas.
 
 ### Prototipação
 
-**A Prototipação da Capí: Da Ideia à Materialidade**
+**Da ideia à materialidade**
 
-A fase de prototipação do projeto Capí foi um marco fundamental na trajetória de transformar uma ideia promissora em uma ferramenta concreta e eficaz para o combate à desinformação ambiental. Através da criação de protótipos, a equipe conseguiu tangibilizar a visão inicial, testar hipóteses e coletar feedbacks valiosos para aprimorar a solução.
+Por meio da criação de protótipos, a equipe conseguiu tangibilizar a visão inicial, testar hipóteses e coletar feedbacks valiosos para aprimorar a solução. Desta forma, foi possível reduzir riscos ao identificar e corrigir problemas nas fases iniciais, além de aumentar a agilidade e melhorar a qualidade.
 
-A prova de conceito (POC) representou o primeiro passo nessa jornada. A POC, um protótipo funcional e simplificado, foi crucial para validar a viabilidade técnica da solução. Ao simular as interações básicas do usuário com o chatbot, a equipe pôde validar a execução técnica do sistema idealizado, utilizando as ferramentas e serviços pesquisados e escolhidos. Essa etapa foi fundamental para garantir que a arquitetura do sistema, definida com base nas pesquisas realizadas, fosse capaz de suportar as funcionalidades desejadas.
+A prova de conceito (POC, na sigla em inglês para proof of concept) representou o primeiro passo nessa jornada. Ao simular as interações básicas do usuário com o chatbot, a equipe pôde validar a execução técnica do sistema idealizado.
 
-**A POC permitiu:**
+Com a POC foi possível:
 
-* **Validar a arquitetura do sistema**: A POC serviu como um teste para a arquitetura do sistema, permitindo identificar e corrigir possíveis problemas de design e implementação.
-* **Experimentar diferentes tecnologias**: A equipe pôde experimentar diferentes tecnologias e ferramentas, escolhendo aquelas que melhor se adaptavam às necessidades do projeto.
-* **Demonstrar a viabilidade do projeto**: A POC foi fundamental para convencer os stakeholders da viabilidade do projeto e garantir o apoio necessário para sua continuidade.
+* Testar e validar a arquitetura do sistema, permitindo identificar e corrigir possíveis problemas de design e implementação;
+* Depois de experimentar diferentes tecnologias, a equipe pôde escolher aquelas que melhor se adaptavam às necessidades do projeto;
+* Demonstrar a viabilidade da Capí a stakeholders e garantir o apoio necessário para sua continuidade.
 
 <p align="center"><img src="_assets/poc-assistente-virtual-capi.png" alt="Imagem de exemplo da tela inicial da POC quando foi disponibilizada no ar." style="vertical-align:middle" height="160em"></p>
 
-Em paralelo à POC, a equipe desenvolveu um protótipo da interface do usuário, utilizando wireframes de baixa fidelidade. Essa representação visual simplificada da interface permitiu visualizar a experiência do usuário de forma intuitiva e identificar oportunidades de melhoria. Ao apresentar o protótipo a um grupo de usuários, a equipe conseguiu coletar feedbacks valiosos sobre a usabilidade, a navegabilidade e a clareza das informações apresentadas.
+Em paralelo à POC, a equipe desenvolveu um protótipo da interface do usuário, utilizando wireframes de baixa fidelidade. Essa representação visual simplificada permitiu visualizar a experiência do usuário de forma intuitiva e identificar oportunidades de melhoria. O protótipo foi apresentado a um grupo de usuários para a coleta de feedbacks sobre usabilidade e navegabilidade.
 
-A prototipação iterativa foi fundamental para garantir que a Capí fosse uma ferramenta intuitiva e fácil de usar. A cada ciclo de prototipação, a equipe refinava o design da interface, ajustava as funcionalidades e coletava novos feedbacks. Essa abordagem ágil permitiu que a equipe adaptasse rapidamente a solução às necessidades dos usuários e às novas descobertas durante o desenvolvimento.
+A prototipação iterativa permitiu que a Capí se tornasse uma ferramenta intuitiva. A cada ciclo, a equipe refinava o design da interface, ajustava as funcionalidades e coletava novos feedbacks.
 
 <p align="center"><img src="_assets/wireframe-lo-fi-assistente-virtual-capi.png" alt="Imagem de exemplo do Wireframe de baixa fidelidade." style="vertical-align:middle" height="160em"></p>
 
-Em resumo, a prototipação foi um elemento central no processo de desenvolvimento da Capí. Através da criação de protótipos, a equipe conseguiu validar hipóteses, identificar e corrigir problemas, coletar feedbacks e garantir que a solução final atendesse às expectativas dos usuários. A prototipação iterativa permitiu que o Capí evoluísse de forma ágil e eficiente, tornando-se uma ferramenta cada vez mais sofisticada e útil para o combate à desinformação ambiental.
-
-A importância da prototipação para o sucesso do projeto Capí pode ser resumida em três pontos principais:
-
-* **Redução de riscos**: Ao identificar e corrigir problemas nas fases iniciais do desenvolvimento, a prototipação minimizou os riscos de falhas e atrasos no projeto.
-* **Melhora da qualidade**: A coleta de feedbacks e a iteração contínua permitiram que a equipe entregasse um produto final de alta qualidade, que atende às necessidades dos usuários.
-* **Aumento da agilidade**: A prototipação ágil permitiu que a equipe se adaptasse rapidamente às mudanças e às novas descobertas durante o desenvolvimento.
-
-Em suma, a prototipação foi um investimento fundamental para o sucesso do projeto Capí, garantindo que a solução fosse desenvolvida de forma eficiente e eficaz, e que atendesse às necessidades dos seus usuários.
-
 ## Desenvolvimento
+
+A elaboração de projetos detalhados se mostrou essencial para garantir o alinhamento das diferentes equipes envolvidas e para tornar possível transformar uma ideia inovadora em uma solução de alta qualidade.
 
 ### Elaboração dos projetos definitivos
 
-A fase de elaboração dos projetos representou um marco crucial na transformação de uma ideia inovadora em uma solução concreta e eficaz para o combate à desinformação ambiental. Nesta etapa, a elaboração de projetos detalhados se mostrou fundamental para garantir a alinhamento entre as diferentes equipes envolvidas e a entrega de um produto de alta qualidade.
+#### Interface com o usuário (UI)
 
-Dois projetos, em particular, se destacaram por sua importância neste processo: o projeto de interface com o usuário (UI) e o projeto de arquitetura de sistema.
+Com base no wireframe de baixa fidelidade, elaborado nas etapas iniciais, a equipe de design deu vida à interface da Capí por meio do Figma, com todas as telas, fluxos de navegação e conteúdos que compõem a experiência do usuário. 
 
-#### O Projeto de Interface com o Usuário (UI): A Experiência do Usuário em Detalhes
-
-Com base no wireframe de baixa fidelidade, elaborado nas etapas iniciais do projeto, a equipe de design deu vida à interface da Capí através do Figma. Essa ferramenta de design colaborativo permitiu a criação de um artefato visual completo e detalhado, contendo todas as telas, fluxos de navegação e conteúdos que compõem a experiência do usuário.
-
-O projeto de UI serviu como um guia preciso para os desenvolvedores front-end, que utilizaram essas informações para construir a interface visual da aplicação. Ao ter acesso a um projeto de UI bem elaborado, os desenvolvedores puderam:
-
-* **Compreender a visão geral da interface**: O projeto de UI ofereceu uma visão completa da interface, facilitando a compreensão da estrutura e da hierarquia das informações.
-* **Implementar os componentes visuais**: Os desenvolvedores puderam utilizar o projeto de UI como referência para criar os componentes visuais da interface, garantindo a consistência e a qualidade do design.
-* **Resolver dúvidas e conflitos**: Em caso de dúvidas ou divergências, o projeto de UI serviu como um documento de referência para resolver conflitos e garantir que a implementação estivesse alinhada com a visão original.
+O projeto de UI serviu como um guia preciso para os desenvolvedores front-end, que puderam compreender a estrutura e a hierarquia das informações, implementar os componentes visuais, além de resolver dúvidas e garantir que a implementação estivesse alinhada com a visão original.
 
 <p align="center"><img src="_assets/projeto-interface-usuario-assistente-virtual-capi.png" alt="Imagem de exemplo do projeto de interface de usuario no Figma." style="vertical-align:middle" height="160em"></p>
 
-#### O Projeto de Arquitetura de Sistema: A Estrutura Interna da Capí
+#### A arquitetura de sistema
 
-Paralelamente ao desenvolvimento da interface, a equipe técnica elaborou o projeto de arquitetura de sistema. Baseado na arquitetura validada na prova de conceito (POC), este projeto detalhou os componentes que compõem o sistema, suas interações e os fluxos de informações.
+Paralelamente ao desenvolvimento da interface, a equipe técnica elaborou o projeto de arquitetura de sistema. Baseado na arquitetura validada na POC, este projeto detalhou os componentes do sistema, suas interações e os fluxos de informações.
 
-O projeto de arquitetura de sistema foi um documento fundamental para todos os envolvidos no desenvolvimento da Capí, incluindo os desenvolvedores front-end, back-end e infraestrutura. Ele serviu como uma referência para:
-
-* **Definir a estrutura do sistema**: O projeto de arquitetura definiu a estrutura do sistema, indicando os módulos, componentes e serviços que o compõem.
-* **Estabelecer as relações entre os componentes**: O projeto detalhou as relações entre os diferentes componentes do sistema, como a forma como eles se comunicam e trocam informações.
-* **Orientar o desenvolvimento**: O projeto de arquitetura serviu como um guia para os desenvolvedores, orientando-os na implementação de cada componente do sistema.
-* **Facilitar a manutenção**: Um projeto de arquitetura bem definido facilitou a manutenção do sistema ao longo do tempo, permitindo que novas funcionalidades fossem adicionadas e que problemas fossem corrigidos de forma eficiente.
+Desta forma, foi possível definir a estrutura do projeto e estabelecer relações entre os componentes, como a forma como eles se comunicam e trocam informações.
 
 <p align="center"><img src="/sistema/_assets/arquitetura-assistente-virtual-capi.drawio.png" alt="Imagem de exemplo do projeto de interface de usuario no Figma." style="vertical-align:middle" height="160em"></p>
 
-### A Importância da Elaboração de Projetos no Desenvolvimento da Capí
-
-Em resumo, a elaboração de projetos detalhados de interface e arquitetura foi um passo crucial no desenvolvimento da Capí. Ao garantir a clareza e a organização do processo de desenvolvimento, esses projetos contribuíram significativamente para o sucesso do projeto como um todo.
-
 ### Execução e Desenvolvimento
 
-A fase de execução e desenvolvimento do projeto Capí representou um momento crucial na transformação da visão inicial em uma ferramenta robusta e eficaz para o combate à desinformação ambiental. Nesta etapa, diversas atividades foram realizadas para garantir que a Capí atendesse aos requisitos técnicos e funcionais estabelecidos.
+Nesta etapa, atividades foram realizadas para garantir que a Capí atendesse aos requisitos técnicos e funcionais estabelecidos. Para isso, houve a combinação de uma base de dados robusta, um modelo de linguagem avançado e uma arquitetura de software escalável.
 
-#### Curadoria e Preparação das Bases de Dados
+#### Fontes de dados
 
-A construção de uma base de conhecimento sólida e confiável foi fundamental para o funcionamento da Capí. A equipe responsável pela curadoria de dados se dedicou a coletar, organizar e preparar informações precisas e atualizadas sobre meio ambiente e mudanças climáticas. Essa base de dados serviu como o alicerce para as respostas da Capí, garantindo que as informações fornecidas fossem sempre relevantes e confiáveis.
+A escolha das fontes que compõem a base de dados da Capí foi uma parte importante do trabalho e tem sido realizada pelos editores da Ambiental Media. Dois grupos de fontes foram incorporados em um primeiro momento: as reportagens e textos publicados pela Ambiental Media e os relatórios de avaliação do IPCC. 
 
-#### Preparação de Conteúdo para o Prompt Tuning
+A partir de então, outras fontes começaram a ser incorporadas por sugestão de cientistas consultados pelos editores. Por fim, após sessões de grupos focais com potenciais usuários da Capí, jornalistas e professores do ensino médio, foram identificadas lacunas nas respostas do robô, que foram preenchidas com a inclusão de outras fontes de dados obtidas através de pesquisa bibliográfica.
 
-Para garantir que a Capí interagisse com os usuários de forma natural e eficiente, foi necessário um processo de "aprendizado" denominado prompt tuning. Nesse processo, foram criados diversos tipos de conteúdo, como:
+Antes de serem alimentados no sistema, os arquivos dos estudos, relatórios, notas técnicas, livros e artigos passaram por um processo automatizado para serem formatados de uma maneira adequada para o treinamento dos modelos de linguagem.
 
-* **Textos de conversação exemplo**: Esses textos simularam conversas entre a Capí e um usuário, ajudando a "ensinar" à ferramenta o tom de voz, a formalidade e a maneira de abordar diferentes assuntos.
-* **Listas de perguntas e respostas**: Essas listas foram elaboradas para ensinar a Capí a lidar com perguntas complexas, com viés, conteúdo malicioso ou que fugissem do escopo de atuação da ferramenta.
 
-#### Provisionamento da Infraestrutura em Nuvem
+#### Preparação de conteúdo para o *prompt tuning*
 
-A equipe de infraestrutura provisionou todos os recursos computacionais necessários para o funcionamento da aplicação, incluindo redes, baleanceadores de carga, segmentação de ambientes, bancos de dados, recursos Serverless, serviços de armazenamento, entre outros.
+Para garantir que a Capí interagisse com os usuários de forma natural e eficiente, foi necessário um processo de "aprendizado" denominado *prompt tuning*, com a criação de diversos tipos de conteúdo, como:
 
-#### Provisionamento e Configuração das Esteiras de DevOps
+* Exemplos de textos de conversação: esses textos simularam conversas entre a Capí e um usuário, ajudando a "ensinar" à ferramenta o tom de voz, a formalidade e a maneira de abordar diferentes assuntos;
+* Listas de perguntas e respostas ideais: essas listas elaboradas pelos editores do projeto foram alimentadas no sistema para ensinar a Capí a lidar com perguntas complexas, com viés, conteúdo malicioso ou que fugissem do escopo de atuação da ferramenta.
 
-Para garantir um ciclo de desenvolvimento ágil, seguro e contínuo, foram implementadas esteiras de DevOps. Essas esteiras automatizaram diversas tarefas, como a construção, o teste e a implantação da aplicação, reduzindo o tempo de desenvolvimento e aumentando a qualidade do software.
+#### Provisionamento da infraestrutura em nuvem
 
-#### Execução do Front-End e Back-End
+A equipe de infraestrutura provisionou todos os recursos computacionais necessários para o funcionamento da aplicação, incluindo redes, balanceadores de carga, segmentação de ambientes, bancos de dados, recursos serverless, serviços de armazenamento, entre outros.
+
+#### Provisionamento e configuração das esteiras de DevOps
+
+Para garantir um ciclo de desenvolvimento ágil, seguro e contínuo, foram implementadas esteiras de DevOps, que automatizaram diversas tarefas, como a construção, o teste e a implantação da aplicação, reduzindo o tempo de desenvolvimento e aumentando a qualidade do software.
+
+#### Execução do front-end e back-end
 
 A interface visual da Capí, projetada no Figma, foi implementada utilizando a tecnologia Next.js. Essa escolha permitiu a criação de uma interface rápida, responsiva e com excelente desempenho. O back-end, também desenvolvido com Next.js, foi responsável por integrar a inteligência artificial à interface, permitindo que os usuários interagissem com a Capí de forma natural e intuitiva.
 
-#### Execução da Inteligência Artificial
+#### Execução da inteligência artificial
 
-A inteligência artificial foi o coração da Capí. Através de modelos de linguagem avançados e da técnica de RAG, a Capí foi implementada para entender as perguntas dos usuários, buscar as informações relevantes na base de dados e gerar respostas precisas e concisas. O processo de treinamento da inteligência artificial foi realizado utilizando as técnicas de prompt tuning e aprendizado de máquina.
+A Capí utiliza o grande modelo de linguagem (LLM, na sigla em inglês para *Large Language Model*) do Gemini, oferecido pelo Google, pareado com a técnica de geração aumentada de recuperação (RAG, na sigla em inglês para *retrieval-augmented generation*). Mais detalhes sobre os detalhes técnicos podem ser encontrados na página de Sistema deste repositório.
 
-#### Conclusão
+## Controle de qualidade
 
-A fase de execução e desenvolvimento do projeto Capí foi marcada por um intenso trabalho de equipe e pela utilização de tecnologias de ponta. A combinação de uma base de dados robusta, um modelo de linguagem avançado e uma arquitetura de software escalável permitiu a criação de uma ferramenta poderosa para o combate à desinformação ambiental. 
+A pesquisa de UX garantiu que a ferramenta fosse desenvolvida com foco nas necessidades dos usuários. Já na etapa de desenvolvimento, a solução passou por um processo de controle de qualidade que envolveu grupos focais, testes no protótipo, coleta e análise dos registros de uso.
 
-## Processo de Qualidade
+### Testes com usuários
 
-### Testes com Usuários
+#### Pesquisa de interface com o usuário
 
-#### A Pesquisa de Interface com o Usuário e a Construção da Experiência do Capí
+Na etapa de pesquisa de interface com o usuário (UX), realizamos atividades de pesquisa qualitativa para coletar percepções de potenciais usuários, principalmente professores e jornalistas.
 
-A etapa de pesquisa de interface com o usuário (UX) do projeto Capí foi fundamental para garantir que a ferramenta atendesse às necessidades e expectativas dos seus principais públicos: professores e jornalistas. Através de uma série de atividades de pesquisa qualitativa, a equipe conseguiu coletar insights valiosos que nortearam o design e o desenvolvimento da plataforma.
+Primeiro, um grupo focal realizado de maneira remoto com oito professores do ensino médio permitiu identificar os principais desafios enfrentados no combate à desinformação e a necessidade de ferramentas mais eficazes para engajar os alunos sobre questões ambientais.
 
-Inicialmente, um grupo focal com professores permitiu identificar os principais desafios enfrentados no combate à desinformação e a necessidade de ferramentas mais eficazes para engajar os alunos sobre questões ambientais. A partir desse primeiro contato com o público-alvo, foi possível elaborar uma lista inicial de funcionalidades para o bot e um conjunto de perguntas que pudessem orientar os usuários menos familiarizados com a tecnologia.
+A partir desse primeiro contato com o público-alvo, foi possível elaborar uma lista inicial de funcionalidades para o chatbot e um conjunto de perguntas que pudessem orientar os usuários menos familiarizados com a tecnologia.
 
-A etapa seguinte envolveu a realização de testes com a prova de conceito (POC) da plataforma. Um grupo de professores e jornalistas foi convidado a testar a ferramenta de forma independente, fornecendo feedbacks valiosos sobre a usabilidade, a relevância das informações e a clareza da interface. A análise dos logs de conversa permitiu identificar as principais dúvidas e necessidades dos usuários, enriquecendo ainda mais a base de conhecimento da Capí.
+A etapa seguinte envolveu a realização de testes com a prova de conceito (POC) da plataforma. Dois grupos, um de professores e outro de jornalistas, foram convidados a testar a ferramenta de forma independente, fornecendo feedbacks sobre a usabilidade, a relevância das informações e a clareza da interface. A análise dos logs de conversa permitiu identificar as principais dúvidas e necessidades dos usuários, enriquecendo ainda mais a base de conhecimento da Capí.
 
-Com base nos resultados dos testes, a equipe realizou novos grupos focais para aprofundar a discussão sobre a experiência do usuário e identificar pontos de melhoria. Os feedbacks coletados nesses encontros foram cruciais para o refinamento da interface e a definição das funcionalidades finais da plataforma.
+Com base nos resultados, a equipe realizou outras quatro dinâmicas de grupos focais, duas com professores e duas com jornalistas. Nessas sessões, os participantes foram instados a usar o protótipo da Capí durante a dinâmica. Entre os feedbacks coletados estavam dificuldades de navegação, mensagens de erro e lacunas de informações nas bases de dados. Também foi possível identificar quais tópicos costumam despertar o interesse desses grupos.
 
-Em paralelo às atividades de pesquisa, a equipe de design trabalhou na criação da identidade visual da Capí e na elaboração de wireframes e protótipos de alta fidelidade. A partir desses materiais, foi possível visualizar a interface final da plataforma e garantir que ela fosse intuitiva e agradável de usar.
-
-Ao longo de todo o processo, a equipe manteve um foco constante na experiência do usuário, buscando criar uma ferramenta que fosse fácil de usar, relevante e capaz de atender às necessidades dos diferentes públicos. A pesquisa de UX foi fundamental para garantir que a Capí fosse um sucesso e que contribuísse de forma significativa para o combate à desinformação ambiental.
-
-#### Em resumo, a pesquisa de UX do projeto Capí permitiu:
-
-* **Identificar as necessidades dos usuários**: Através de grupos focais e testes com a POC, a equipe conseguiu compreender as expectativas e desafios dos professores e jornalistas.
-* **Informar o design da interface**: Os insights coletados na pesquisa foram utilizados para criar uma interface intuitiva e fácil de usar.
-* **Melhorar a qualidade das respostas da Capí**: A análise das perguntas dos usuários permitiu aprimorar a base de conhecimento da ferramenta e garantir que as respostas fossem sempre relevantes e precisas.
-* **Aumentar a confiança dos usuários**: Ao envolver os usuários no processo de desenvolvimento, a equipe conseguiu construir uma relação de confiança com o público-alvo.
-
-A pesquisa de UX foi um investimento fundamental para o sucesso do projeto Capí, garantindo que a ferramenta fosse desenvolvida com foco nas necessidades dos usuários e que contribuísse de forma significativa para a disseminação de informações corretas sobre o meio ambiente.
+Em paralelo às atividades de pesquisa, a equipe de design trabalhou na criação da identidade visual da Capí e na elaboração de wireframes e protótipos de alta fidelidade. Ao longo de todo o processo, a equipe manteve o foco na experiência do usuário.
 
 ### Testes de Tecnologia
 
-A etapa de desenvolvimento do Capí foi acompanhada por um rigoroso processo de qualidade, visando garantir a entrega de uma solução robusta, segura e eficiente. Esse processo envolveu diversas atividades, desde a observação dos logs do sistema até a implementação de correções e melhorias.
+#### Observação e análise dos logs do sistema
 
-#### Observação e Análise dos Logs do Sistema
+Uma das principais formas utilizadas para garantir a qualidade do Capí foi a análise dos logs do sistema (registros de todas as interações com o robô, incluindo perguntas e respostas). Durante e após os testes com os usuários, os logs foram observados para identificar pontos de falha como erros e exceções que impediam o funcionamento correto do sistema; instabilidades e problemas de desempenho, como lentidão ou travamentos; e padrões de uso.
 
-Uma das principais formas utilizadas para garantir a qualidade do Capí foi a análise dos logs do sistema. Durante e após os testes com os usuários, os logs foram minuciosamente observados para identificar:
+#### Ferramentas de qualidade e segurança
 
-* **Pontos de falha**: Erros e exceções que impediam o funcionamento correto do sistema.
-* **Instabilidades**: Problemas de desempenho, como lentidão ou travamentos, que comprometiam a experiência do usuário.
-* **Padrões de uso**: Analisando as interações dos usuários com o sistema, foi possível identificar as funcionalidades mais utilizadas e as que apresentavam maior dificuldade de uso.
+Para complementar a análise dos logs, foram utilizadas outras ferramentas de qualidade e segurança, visando testar alguns aspectos do sistema. Foram analisados a integração dos componentes do sistema, vulnerabilidades a agentes maliciosos e capacidade de carga. Por fim, foi feita uma análise geral do código estático e da infraestrutura provisionada.
 
-#### Utilização de Ferramentas de Qualidade e Segurança
+#### Mapeamento, triagem e plano de ação
 
-Para complementar a análise dos logs, foram utilizadas outras ferramentas de qualidade e segurança, visando testar alguns aspector do sistema como:
-
-* **Integração**: Se os diferentes componentes do sistema interagiam corretamente entre si.
-* **Testes de segurança**: Foram realizados testes de segurança para identificar e mapear vulnerabilidades.
-* **Carga**: Testando como se comportava a escalabilidade da Capí.
-* **Análise de código estático e infra estrutura provisionada**: Visando encontrar erros, vulnerabilidaes e problemas de configuração.
-
-#### Mapeamento, Triagem e Plano de Ação
-
-Os problemas identificados durante os testes e as análises foram mapeados e classificados por ordem de prioridade. Essa classificação levou em consideração o impacto do problema na experiência do usuário e na estabilidade do sistema. Com base nessa classificação, foi elaborado um plano de ação, definindo as tarefas necessárias para corrigir os bugs, implementar as melhorias e garantir a qualidade do sistema.
+Os problemas identificados durante os testes e as análises foram mapeados e classificados por ordem de prioridade, considerando o impacto do problema na experiência do usuário e na estabilidade do sistema. Com base nessa classificação, foi elaborado um plano de ação, definindo as tarefas necessárias para corrigir os bugs, implementar as melhorias e garantir a qualidade do sistema.
 
 #### Correções e Melhorias
 
-O plano de ação está sendo executado de forma incremental, com as correções e melhorias sendo implementadas em diferentes fases. A cada nova versão do sistema, novos testes estão sendo realizados para verificar se os problemas estão sido resolvidos e se novas funcionalidades estão funcionando corretamente.
+O plano de ação está sendo executado de forma incremental, com as correções e melhorias sendo implementadas em diferentes fases. A cada nova versão do sistema, novos testes são realizados para verificar se os problemas foram resolvidos e se novas funcionalidades estão funcionando corretamente.
 
