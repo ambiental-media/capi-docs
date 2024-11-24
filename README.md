@@ -4,7 +4,7 @@
 
 <h1 align="center">Documentação & Compartilhamento</h1>
 
-## Sobre a "Capí"
+## Sobre a Capí
 
 <p align="center"><em>Capí: inteligência artificial contra a desinformação climática</em></p>
 
