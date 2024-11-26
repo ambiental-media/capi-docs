@@ -10,11 +10,11 @@
 
 **A mentoria como catalisadora da inovação**
 
-Primeiro, a equipe da Ambiental Media responsável pela Capí participou de um programa de mentorias técnicas e pedagógicas. 
+Primeiro, a equipe da Ambiental Media responsável pela *Capí* participou de um programa de mentorias técnicas e pedagógicas. 
 
 Na área técnica, contamos com uma série de sessões com Bruno Fávero, diretor de inovação do Aos Fatos e responsável pelo chatbot Fátima. Fávero trouxe um direcionamento estratégico importante para a definição da arquitetura do sistema, para a escolha das tecnologias mais adequadas e para a resolução de desafios complexos relacionados à inteligência artificial. 
 
-Paralelamente, foram realizadas mentorias pedagógicas com a jornalista e pesquisadora em educação Camila Leporace. As sessões tiveram o objetivo de fazer da Capí uma ferramenta útil e atraente para professores e estudantes. 
+Paralelamente, foram realizadas mentorias pedagógicas com a jornalista e pesquisadora em educação Camila Leporace. As sessões tiveram o objetivo de fazer da *Capí* uma ferramenta útil e atraente para professores e estudantes. 
 
 Por meio de pesquisas e testes com usuários, a equipe conseguiu identificar as necessidades e expectativas do público-alvo, adaptando a interface e as funcionalidades da plataforma para atender a essas demandas.
 
@@ -62,13 +62,13 @@ Com a POC foi possível:
 
 * Testar e validar a arquitetura do sistema, permitindo identificar e corrigir possíveis problemas de design e implementação;
 * Depois de experimentar diferentes tecnologias, a equipe pôde escolher aquelas que melhor se adaptavam às necessidades do projeto;
-* Demonstrar a viabilidade da Capí a stakeholders e garantir o apoio necessário para sua continuidade.
+* Demonstrar a viabilidade da *Capí* a stakeholders e garantir o apoio necessário para sua continuidade.
 
 <p align="center"><img src="_assets/poc-assistente-virtual-capi.png" alt="Imagem de exemplo da tela inicial da POC quando foi disponibilizada no ar." style="vertical-align:middle" height="160em"></p>
 
 Em paralelo à POC, a equipe desenvolveu um protótipo da interface do usuário, utilizando wireframes de baixa fidelidade. Essa representação visual simplificada permitiu visualizar a experiência do usuário de forma intuitiva e identificar oportunidades de melhoria. O protótipo foi apresentado a um grupo de usuários para a coleta de feedbacks sobre usabilidade e navegabilidade.
 
-A prototipação iterativa permitiu que a Capí se tornasse uma ferramenta intuitiva. A cada ciclo, a equipe refinava o design da interface, ajustava as funcionalidades e coletava novos feedbacks.
+A prototipação iterativa permitiu que a *Capí* se tornasse uma ferramenta intuitiva. A cada ciclo, a equipe refinava o design da interface, ajustava as funcionalidades e coletava novos feedbacks.
 
 <p align="center"><img src="_assets/wireframe-lo-fi-assistente-virtual-capi.png" alt="Imagem de exemplo do Wireframe de baixa fidelidade." style="vertical-align:middle" height="160em"></p>
 
@@ -80,7 +80,7 @@ A elaboração de projetos detalhados se mostrou essencial para garantir o alinh
 
 #### Interface com o usuário (UI)
 
-Com base no wireframe de baixa fidelidade, elaborado nas etapas iniciais, a equipe de design deu vida à interface da Capí por meio do Figma, com todas as telas, fluxos de navegação e conteúdos que compõem a experiência do usuário. 
+Com base no wireframe de baixa fidelidade, elaborado nas etapas iniciais, a equipe de design deu vida à interface da *Capí* por meio do Figma, com todas as telas, fluxos de navegação e conteúdos que compõem a experiência do usuário. 
 
 O projeto de UI serviu como um guia preciso para os desenvolvedores front-end, que puderam compreender a estrutura e a hierarquia das informações, implementar os componentes visuais, além de resolver dúvidas e garantir que a implementação estivesse alinhada com a visão original.
 
@@ -96,23 +96,23 @@ Desta forma, foi possível definir a estrutura do projeto e estabelecer relaçõ
 
 ### Execução e Desenvolvimento
 
-Nesta etapa, atividades foram realizadas para garantir que a Capí atendesse aos requisitos técnicos e funcionais estabelecidos. Para isso, houve a combinação de uma base de dados robusta, um modelo de linguagem avançado e uma arquitetura de software escalável.
+Nesta etapa, atividades foram realizadas para garantir que a *Capí* atendesse aos requisitos técnicos e funcionais estabelecidos. Para isso, houve a combinação de uma base de dados robusta, um modelo de linguagem avançado e uma arquitetura de software escalável.
 
 #### Fontes de dados
 
-A escolha das fontes que compõem a base de dados da Capí foi uma parte importante do trabalho e tem sido realizada pelos editores da Ambiental Media. Dois grupos de fontes foram incorporados em um primeiro momento: as reportagens e textos publicados pela Ambiental Media e os relatórios de avaliação do IPCC. 
+A escolha das fontes que compõem a base de dados da *Capí* foi uma parte importante do trabalho e tem sido realizada pelos editores da Ambiental Media. Dois grupos de fontes foram incorporados em um primeiro momento: as reportagens e textos publicados pela Ambiental Media e os relatórios de avaliação do IPCC. 
 
-A partir de então, outras fontes começaram a ser incorporadas por sugestão de cientistas consultados pelos editores. Por fim, após sessões de grupos focais com potenciais usuários da Capí, jornalistas e professores do ensino médio, foram identificadas lacunas nas respostas do robô, que foram preenchidas com a inclusão de outras fontes de dados obtidas através de pesquisa bibliográfica.
+A partir de então, outras fontes começaram a ser incorporadas por sugestão de cientistas consultados pelos editores. Por fim, após sessões de grupos focais com potenciais usuários da *Capí*, jornalistas e professores do ensino médio, foram identificadas lacunas nas respostas do robô, que foram preenchidas com a inclusão de outras fontes de dados obtidas através de pesquisa bibliográfica.
 
 Antes de serem alimentados no sistema, os arquivos dos estudos, relatórios, notas técnicas, livros e artigos passaram por um processo automatizado para serem formatados de uma maneira adequada para o treinamento dos modelos de linguagem.
 
 
 #### Preparação de conteúdo para o *prompt tuning*
 
-Para garantir que a Capí interagisse com os usuários de forma natural e eficiente, foi necessário um processo de "aprendizado" denominado *prompt tuning*, com a criação de diversos tipos de conteúdo, como:
+Para garantir que a *Capí* interagisse com os usuários de forma natural e eficiente, foi necessário um processo de "aprendizado" denominado *prompt tuning*, com a criação de diversos tipos de conteúdo, como:
 
-* Exemplos de textos de conversação: esses textos simularam conversas entre a Capí e um usuário, ajudando a "ensinar" à ferramenta o tom de voz, a formalidade e a maneira de abordar diferentes assuntos;
-* Listas de perguntas e respostas ideais: essas listas elaboradas pelos editores do projeto foram alimentadas no sistema para ensinar a Capí a lidar com perguntas complexas, com viés, conteúdo malicioso ou que fugissem do escopo de atuação da ferramenta.
+* Exemplos de textos de conversação: esses textos simularam conversas entre a *Capí* e um usuário, ajudando a "ensinar" à ferramenta o tom de voz, a formalidade e a maneira de abordar diferentes assuntos;
+* Listas de perguntas e respostas ideais: essas listas elaboradas pelos editores do projeto foram alimentadas no sistema para ensinar a *Capí* a lidar com perguntas complexas, com viés, conteúdo malicioso ou que fugissem do escopo de atuação da ferramenta.
 
 #### Provisionamento da infraestrutura em nuvem
 
@@ -124,11 +124,11 @@ Para garantir um ciclo de desenvolvimento ágil, seguro e contínuo, foram imple
 
 #### Execução do front-end e back-end
 
-A interface visual da Capí, projetada no Figma, foi implementada utilizando a tecnologia Next.js. Essa escolha permitiu a criação de uma interface rápida, responsiva e com excelente desempenho. O back-end, também desenvolvido com Next.js, foi responsável por integrar a inteligência artificial à interface, permitindo que os usuários interagissem com a Capí de forma natural e intuitiva.
+A interface visual da *Capí*, projetada no Figma, foi implementada utilizando a tecnologia Next.js. Essa escolha permitiu a criação de uma interface rápida, responsiva e com excelente desempenho. O back-end, também desenvolvido com Next.js, foi responsável por integrar a inteligência artificial à interface, permitindo que os usuários interagissem com a *Capí* de forma natural e intuitiva.
 
 #### Execução da inteligência artificial
 
-A Capí utiliza o grande modelo de linguagem (LLM, na sigla em inglês para *Large Language Model*) do Gemini, oferecido pelo Google, pareado com a técnica de geração aumentada de recuperação (RAG, na sigla em inglês para *retrieval-augmented generation*). Mais detalhes sobre os detalhes técnicos podem ser encontrados na página de Sistema deste repositório.
+A *Capí* utiliza o grande modelo de linguagem (LLM, na sigla em inglês para *Large Language Model*) do Gemini, oferecido pelo Google, pareado com a técnica de geração aumentada de recuperação (RAG, na sigla em inglês para *retrieval-augmented generation*). Mais detalhes sobre os detalhes técnicos podem ser encontrados na página de Sistema deste repositório.
 
 ## Controle de qualidade
 
@@ -144,17 +144,17 @@ Primeiro, um grupo focal realizado de maneira remoto com oito professores do ens
 
 A partir desse primeiro contato com o público-alvo, foi possível elaborar uma lista inicial de funcionalidades para o chatbot e um conjunto de perguntas que pudessem orientar os usuários menos familiarizados com a tecnologia.
 
-A etapa seguinte envolveu a realização de testes com a prova de conceito (POC) da plataforma. Dois grupos, um de professores e outro de jornalistas, foram convidados a testar a ferramenta de forma independente, fornecendo feedbacks sobre a usabilidade, a relevância das informações e a clareza da interface. A análise dos logs de conversa permitiu identificar as principais dúvidas e necessidades dos usuários, enriquecendo ainda mais a base de conhecimento da Capí.
+A etapa seguinte envolveu a realização de testes com a prova de conceito (POC) da plataforma. Dois grupos, um de professores e outro de jornalistas, foram convidados a testar a ferramenta de forma independente, fornecendo feedbacks sobre a usabilidade, a relevância das informações e a clareza da interface. A análise dos logs de conversa permitiu identificar as principais dúvidas e necessidades dos usuários, enriquecendo ainda mais a base de conhecimento da *Capí*.
 
-Com base nos resultados, a equipe realizou outras quatro dinâmicas de grupos focais, duas com professores e duas com jornalistas. Nessas sessões, os participantes foram instados a usar o protótipo da Capí durante a dinâmica. Entre os feedbacks coletados estavam dificuldades de navegação, mensagens de erro e lacunas de informações nas bases de dados. Também foi possível identificar quais tópicos costumam despertar o interesse desses grupos.
+Com base nos resultados, a equipe realizou outras quatro dinâmicas de grupos focais, duas com professores e duas com jornalistas. Nessas sessões, os participantes foram instados a usar o protótipo da *Capí* durante a dinâmica. Entre os feedbacks coletados estavam dificuldades de navegação, mensagens de erro e lacunas de informações nas bases de dados. Também foi possível identificar quais tópicos costumam despertar o interesse desses grupos.
 
-Em paralelo às atividades de pesquisa, a equipe de design trabalhou na criação da identidade visual da Capí e na elaboração de wireframes e protótipos de alta fidelidade. Ao longo de todo o processo, a equipe manteve o foco na experiência do usuário.
+Em paralelo às atividades de pesquisa, a equipe de design trabalhou na criação da identidade visual da *Capí* e na elaboração de wireframes e protótipos de alta fidelidade. Ao longo de todo o processo, a equipe manteve o foco na experiência do usuário.
 
 ### Testes de Tecnologia
 
 #### Observação e análise dos logs do sistema
 
-Uma das principais formas utilizadas para garantir a qualidade do Capí foi a análise dos logs do sistema (registros de todas as interações com o robô, incluindo perguntas e respostas). Durante e após os testes com os usuários, os logs foram observados para identificar pontos de falha como erros e exceções que impediam o funcionamento correto do sistema; instabilidades e problemas de desempenho, como lentidão ou travamentos; e padrões de uso.
+Uma das principais formas utilizadas para garantir a qualidade do *Capí* foi a análise dos logs do sistema (registros de todas as interações com o robô, incluindo perguntas e respostas). Durante e após os testes com os usuários, os logs foram observados para identificar pontos de falha como erros e exceções que impediam o funcionamento correto do sistema; instabilidades e problemas de desempenho, como lentidão ou travamentos; e padrões de uso.
 
 #### Ferramentas de qualidade e segurança
 

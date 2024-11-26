@@ -12,11 +12,11 @@ Diagrama simplificado da arquitetura do sistema:
 
 ### Visão Geral
 
-A assistente virtual Capí é uma solução baseada em nuvem, construída sobre a plataforma Google Cloud Platform (GCP), que oferece um serviço de atendimento ao usuário por meio de uma interface web intuitiva. O sistema foi projetado para fornecer respostas precisas e relevantes a perguntas sobre temas ambientais, utilizando tecnologias de ponta em inteligência artificial, como o modelo de linguagem de grande porte (LLM) Gemini e o mecanismo de busca semântica RAG (Retrieval-augmented generation).
+A assistente virtual *Capí* é uma solução baseada em nuvem, construída sobre a plataforma Google Cloud Platform (GCP), que oferece um serviço de atendimento ao usuário por meio de uma interface web intuitiva. O sistema foi projetado para fornecer respostas precisas e relevantes a perguntas sobre temas ambientais, utilizando tecnologias de ponta em inteligência artificial, como o modelo de linguagem de grande porte (LLM) Gemini e o mecanismo de busca semântica RAG (Retrieval-augmented generation).
 
 ### Descrição da arquitetura do sistema
 
-A arquitetura do sistema Capí pode ser dividida em três camadas principais:
+A arquitetura do sistema *Capí* pode ser dividida em três camadas principais:
 
 #### 1. Camada de apresentação:
 
@@ -59,7 +59,7 @@ A Google Cloud Platform fornece a infraestrutura em nuvem para hospedar todos os
 
 ### Eficiência Energética e Sustentabilidade
 
-A arquitetura do sistema Capí foi projetada com foco na eficiência energética e sustentabilidade:
+A arquitetura do sistema *Capí* foi projetada com foco na eficiência energética e sustentabilidade:
 
 * RAG: a técnica de RAG evita o retreinamento constante do modelo de linguagem, reduzindo o consumo de energia e os custos computacionais;
 * Servidores LowCO2: a utilização de servidores LowCO2 da GCP em regiões como us-central1 contribui para reduzir a pegada de carbono do sistema.
@@ -139,7 +139,7 @@ O Vertex AI Agent Builder oferece um ambiente ideal para realizar o prompt tunin
 
 **Exemplo de uso**:
 
-Imagine que você deseja que a agente Capí seja mais conciso em suas respostas. Você poderia adicionar a seguinte instrução:
+Imagine que você deseja que a agente *Capí* seja mais conciso em suas respostas. Você poderia adicionar a seguinte instrução:
 
 ```
 "Sua resposta deve ser clara, concisa e direta ao ponto."
