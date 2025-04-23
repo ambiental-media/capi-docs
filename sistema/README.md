@@ -18,11 +18,13 @@ A assistente virtual *Capí* é uma solução baseada em nuvem, construída sobr
 
 A arquitetura do sistema *Capí* pode ser dividida em três camadas principais:
 
-#### 1. Camada de apresentação:
+#### 1. Camada de serviços:
 
 **Front-end (Next.js)**: responsável pela interface do usuário, onde as interações com a assistente virtual ocorrem;
 
 **Back-end (Next.js)**: lida com a lógica de negócio, processando as solicitações do usuário e encaminhando-as para o modelo de linguagem.
+
+**CloudRun Function**: microsserviço que suporta contexto de tempo para a IA.
 
 #### 2. Camada de inteligência artificial:
 
@@ -50,6 +52,7 @@ A Google Cloud Platform fornece a infraestrutura em nuvem para hospedar todos os
 * O Data Store é composto por:
     * Conteúdo do website da Ambiental Media
     * Dados não estruturados de estudos científicos selecionados pelos editores da Ambiental Media.
+* O Agente Builder usa um recurso de ferramenta para fazer a chamada à APIs externas para resolver outras funcionalidades complementares à IA. No caso da Capí, ela possui uma tool declarada diretamente no Dialogflow, que permite ao agente obter a data e hora atual ao início de cada conversa. A execução é feita por meio de uma API implementada em Python e hospedada no Cloud Run, acessada internamente pela rede privada, via requisição HTTP segura. Essa ferramenta foi criada exclusivamente para uso interno e retorna a data/hora no formato ISO para ser usada pelo modelo na composição das respostas.     
 
 #### Vantagens da arquitetura:
 
